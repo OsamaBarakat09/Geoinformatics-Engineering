@@ -1,1 +1,0 @@
-**Spatial data acquisition**: is the systematic process of gathering geographic and location-based information using primary and secondary collection techniques, categorized primarily into direct field methods and indirect digital conversion. It forms the foundational input layer for Geographic Information Systems (GIS).
